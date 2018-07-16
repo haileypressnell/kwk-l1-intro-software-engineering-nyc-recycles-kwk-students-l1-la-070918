@@ -1,5 +1,7 @@
 ###### Code Your Solutions Here!!!
-
+first_recycle_bin = {
+  
+}
 #Your code should work with a hash that looks like the one below (in comments).
 #The specs (which call your tests) are using these exact hashes 
 # We haven't hard coded the hashes in the tests, 
