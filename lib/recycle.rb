@@ -23,7 +23,13 @@ third_recycle_bin = {
   "latitude"=>"40.85557",
   "park_site_name"=>"Arthur Ave & E 187 St"}
 
-
+fourth_recycle_bin = {
+  "address"=>"895 Shore Road, Pelham Bay Park",
+  "site_type"=>"Outdoor ",
+  "longitude"=>"-73.805549",
+  "borough"=>"Bronx",
+  "latitude"=>"40.871864",
+  "park_site_name"=>"Barstow Mansion"}
 #Your code should work with a hash that looks like the one below (in comments).
 #The specs (which call your tests) are using these exact hashes 
 # We haven't hard coded the hashes in the tests, 
@@ -42,6 +48,8 @@ third_recycle_bin = {
 #1. Define a method `address`, that takes a hash as an argument.
 #This method should return the value of the address key in the hash.
 
+def address
+  
 #2. Define a method called `borough` that takes a hash as an argument.
 # This method should return the value of the borough key in the hash.
 
