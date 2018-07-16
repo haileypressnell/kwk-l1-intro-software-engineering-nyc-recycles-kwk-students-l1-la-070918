@@ -7,6 +7,14 @@ first_recycle_bin = {
   "latitude"=>"40.890848989",
   "park_site_name"=>"227th St. Plgd"
 }
+second_recycle_bin = { 
+  "address"=>"Allerton Ave & Moshulu Pkway",
+  "site_type"=>"Subproperty",
+  "longitude"=>"-73.8771283938",
+  "borough"=>"Bronx",
+  "latitude"=>"40.8488907878",
+  "park_site_name"=>"Allerton Ballfields"}
+  
 
 #Your code should work with a hash that looks like the one below (in comments).
 #The specs (which call your tests) are using these exact hashes 
